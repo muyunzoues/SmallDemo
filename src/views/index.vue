@@ -15,8 +15,16 @@
               size="mini"
               icon="el-icon-cloudy"
               plain
+              @click="goTarget('https://github.com/muyunzoues/smallDemo')"
+          >访问前端项目</el-button
+          >
+          <el-button
+              type="primary"
+              size="mini"
+              icon="el-icon-cloudy"
+              plain
               @click="goTarget('https://github.com/muyunzoues/ArticleDemo')"
-          >访问项目</el-button
+          >访问后端项目</el-button
           >
           <el-button
               size="mini"
