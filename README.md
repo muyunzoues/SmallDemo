@@ -1,4 +1,4 @@
-本项目为vue3前端端项目，后端项目在主页ArticleDemo下，线上地址可访问www.huyiqi.club或http://1.12.221.240
+
 
 # smallDemo
 
